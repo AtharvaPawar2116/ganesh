@@ -1,4 +1,4 @@
 # ganesh
 This is my first repository. 
 <br>
-Author-Atharva Pawar
+Author-Atharva Pawar.
